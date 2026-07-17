@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: restaurant-api
-        image: divy624/vivekbhai:14
+        image: divy624/vivekbhai:18
         imagePullPolicy: Always
 
         ports:
